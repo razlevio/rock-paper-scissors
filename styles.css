@@ -34,7 +34,6 @@ button {
   font-size: inherit;
   cursor: pointer;
   outline: none;
-  caret-color: transparent;
 }
 
 .header {
